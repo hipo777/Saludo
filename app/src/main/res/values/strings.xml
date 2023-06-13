@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Saludo</string>
+    <string name="text_nombre">Nombre</string>
+    <string name="text_apellido">Apellido</string>
+    <string name="text_email">Email</string>
+    <string name="text_requerido"> (Requerido)</string>
+</resources>
